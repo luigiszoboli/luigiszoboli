@@ -11,7 +11,7 @@ Hi, I'm Luigi.
 
 @@I'm a Java developer@@
 + Living in Santa Catarina, Brazil.
-- 18 years old
+- 18 years old.
 ```
 
 <!-- Social networks -->
